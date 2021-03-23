@@ -103,7 +103,7 @@ window.onkeypress(move_up_b, "Up")
 window.onkeypress(move_down_b, "Down")
 
 while True:
-    window.update()
+  
 
     ball.setx(ball.xcor() + ball.dx)
     ball.sety(ball.ycor() + ball.dy)
