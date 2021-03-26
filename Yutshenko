@@ -5,7 +5,7 @@ window = turtle.Screen()
 window.title("Ping-Pong")
 window.setup(width=1.0,height=1.0)
 window.bgcolor("black")
-window.tracer(2)
+window.tracer(1)
 
 
 border = turtle.Turtle()
